@@ -944,3 +944,19 @@ color: #989898;
 }
 
 /* company manager End  */
+/* footer strat */
+ .footer_1st {
+   overflow: hidden;
+
+    padding-top: 70px;
+}
+.second {
+
+    width: 1440px;
+    height: 251px;
+    background: #362FD9;
+   
+}
+
+
+/* footer End */
