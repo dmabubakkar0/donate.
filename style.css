@@ -949,14 +949,60 @@ color: #989898;
    overflow: hidden;
 
     padding-top: 70px;
+   
 }
 .second {
-
+    justify-content: space-around;
+    display: flex;
     width: 1440px;
     height: 251px;
     background: #362FD9;
    
 }
+.text_1 {
+    padding-top: 65px;
+}
+
+.text_1  h1{
+    font-size: 30px;
+    font-family: Inter , bold;
+    color: #FFF;
+}
+
+.text_1 p {
+font-size: 14px;
+font-family: poppins , meadium;
+line-height: 165%;
+color: #E1E1E1;
+}
+  .cotaine {
+    padding-top: 68px;
+
+  }
+ .icon {
+ display: flex;
+ /* justify-content: space-evenly; */
+ }
+
+.icon .icon_1 {
+ padding: 0 10px;
+ 
+}
+.icon .icon_2 {
+ padding: 0 10px;
+}
+.icon .icon_3 {
+ padding: 0 10px;
+}
 
 
+
+
+
+.cotaine .text p {
+font-size: 20px;
+font-family: Inter , meadium;
+color: #FFF;
+padding: 33px 0px;
+ }
 /* footer End */
